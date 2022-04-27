@@ -1,0 +1,36 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+  
+.section-blue { 
+  /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #02064f;
+
+}
+  
+.container { 
+  /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #ff9900;
+
+}
+
+#section-1 {
+   /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #ff9900;
+
+}
+
+#section-6 { 
+  /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #ff9900;
+
+}
