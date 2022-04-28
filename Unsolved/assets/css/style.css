@@ -1,0 +1,43 @@
+.lesson {
+    width: 200px;
+    height: 100px;
+  }
+
+  #section-1 {
+    /* Sets font color */
+   color: rgb(167, 155, 23);
+   /* Sets background color */
+   background-color: #130325;
+
+  }
+
+#section-2 { 
+  /* Sets font color */
+  color: rgb(226, 154, 20);
+  /* Sets background color */
+  background-color: #02064f;
+
+}
+
+
+.container { 
+  /* Sets font color */
+  color: white;
+  /* Sets background color */
+  background-color: #0a0702;
+
+}
+
+#section-4 { 
+  /* Sets font color */
+  color: rgb(249, 250, 245);
+  /* Sets background color */
+  background-color: #0a0702;
+}
+
+#section-6 { 
+  /* Sets font color */
+  color: rgb(197, 211, 39);
+  /* Sets background color */
+  background-color: #0a0702;
+}
